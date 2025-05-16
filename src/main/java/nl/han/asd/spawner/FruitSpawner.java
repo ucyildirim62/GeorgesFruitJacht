@@ -11,7 +11,7 @@ import java.util.Random;
 
 public class FruitSpawner extends EntitySpawner {
     private final double sceneWidth;
-    private static final int spawnIntervalMs = 1000;
+    private static final int spawnIntervalMs = 3000;
     private static final double fruitSnelheid = 2;
     private static final int kansBanaan = 4; // van 10
     private static final int kansVerrotFruit = 3; // van 10
